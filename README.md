@@ -32,7 +32,8 @@ Kenneth Atz, Francesca Grisoni, Gisbert Schneider Nature 2021 [paper](https://ww
 Fabian Fuchs, Daniel Worrall, Volker Fischer, Max Welling NeurIPS 2020 [paper](https://proceedings.neurips.cc//paper/2020/hash/15231a7ce4ba789d13b722cc5c955834-Abstract.html)
 
 ### Community
-
+1. **M2D2: Molecular Modeling And Drug Discovery** [Link](https://valence-discovery.github.io/M2D2-meetings/index.html)
+2. **OpenFold：Democratizing AI for Biology** [Link](https://openfold.io/#whatis)
 ### Conference
 
 ### Tutorials
