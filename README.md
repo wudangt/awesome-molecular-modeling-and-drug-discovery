@@ -23,7 +23,7 @@
 
 ### Community
 
-### conference
+### Conference
 
 ### Tutorials
 
@@ -31,6 +31,6 @@
 
 ### Other software and resources
 
-#### platforms
+#### Platforms
 
 #### DevTools
