@@ -40,7 +40,7 @@ Fabian Fuchs, Daniel Worrall, Volker Fischer, Max Welling NeurIPS 2020 [paper](h
 1. **DeepMind's AlphaFold 2 Explained! AI Breakthrough in Protein Folding! What we know (& what we don't)** [Video](https://www.youtube.com/watch?v=B9PL__gVxLI&ab_channel=YannicKilcher)
 2. **AlphaFold and the Grand Challenge to solve protein folding** [Video](https://www.youtube.com/watch?v=nGVFbPKrRWQ&t=3s&ab_channel=ArxivInsights)
 ### Jobs
-1. **somorphic Labs — Applicant and Candidate Privacy Policy** [Apply](https://www.isomorphiclabs.com/join)
+1. **somorphic Labs — Current Job Openings** [Apply](https://www.isomorphiclabs.com/join)
 ### Other software and resources
 
 #### Platforms
