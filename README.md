@@ -8,6 +8,7 @@
 - [Table of Contents](#table-of-contents)
 - [Resources](#resources)
 	- [Research articles](#research-articles)
+		- [Year 2021](#year-2021)
 		- [Year 2020](#year-2020)
 	- [Community](#community)
 	- [conference](#conference)
@@ -21,6 +22,10 @@
 ## Resources 
 
 ### Research articles
+
+#### Year 2021
+1. **Geometric Deep Learning on Molecular Representations**  
+Kenneth Atz, Francesca Grisoni, Gisbert Schneider Nature 2021 [paper](https://www.nature.com/articles/s42256-021-00418-8)
 
 #### Year 2020
 1. **SE(3)-Transformers: 3D Roto-Translation Equivariant Attention Networks**  
