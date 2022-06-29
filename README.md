@@ -26,6 +26,12 @@
 #### Year 2021
 1. **Geometric Deep Learning on Molecular Representations**  
 Kenneth Atz, Francesca Grisoni, Gisbert Schneider Nature 2021 [paper](https://www.nature.com/articles/s42256-021-00418-8)
+2. **Highly accurate protein structure prediction with AlphaFold**  
+John Jumper, Richard Evans, Alexander Pritzel, Tim Green, etc, ... Nature 2021 [paper](https://www.nature.com/articles/s41586-021-03819-2)
+3. **Accurate prediction of protein structures and interactions using a three-track neural network**   
+MINKYUNG BAEK, DIMAIO, ANISHCHENKO, DAUPARAS, etc, ... Science 2021 [paper](https://www.science.org/doi/10.1126/science.abj8754)
+5. **Learning from Protein Structure with Geometric Vector Perceptrons**  
+Bowen Jing, Stephan Eismann∗, Patricia Suriana, Raphael J.L. T, etc, ... ICLR 2021 [paper](https://arxiv.org/pdf/2009.01411.pdf)
 
 #### Year 2020
 1. **SE(3)-Transformers: 3D Roto-Translation Equivariant Attention Networks**  
