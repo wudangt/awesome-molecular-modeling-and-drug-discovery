@@ -35,14 +35,27 @@ Fabian Fuchs, Daniel Worrall, Volker Fischer, Max Welling NeurIPS 2020 [paper](h
 1. **M2D2: Molecular Modeling And Drug Discovery** [Link](https://valence-discovery.github.io/M2D2-meetings/index.html)
 2. **OpenFold：Democratizing AI for Biology** [Link](https://openfold.io/#whatis)
 ### Conference
-
+1. **AI Cures Drug Discovery Conference** [Link](https://www.aicures.mit.edu/drugdiscoveryconference)
 ### Tutorials
 1. **DeepMind's AlphaFold 2 Explained! AI Breakthrough in Protein Folding! What we know (& what we don't)** [Video](https://www.youtube.com/watch?v=B9PL__gVxLI&ab_channel=YannicKilcher)
 2. **AlphaFold and the Grand Challenge to solve protein folding** [Video](https://www.youtube.com/watch?v=nGVFbPKrRWQ&t=3s&ab_channel=ArxivInsights)
+3. **Michelle Gill - Artificial Intelligence Driven Drug Discovery** [Video](https://www.youtube.com/watch?v=U_rGTUyMkxg&ab_channel=LanderAnalytics)
+4. **AI for Drug Design - Lecture 16 - Deep Learning in the Life Sciences (Spring 2021)** [Video](https://www.youtube.com/watch?v=AHVJv5RNqKs&ab_channel=ManolisKellis)
+5. **Deep Learning for Drug Discovery** [Video](https://www.youtube.com/watch?v=Xf2uI4S9IMo&ab_channel=BayesGroup.ru)
+6. **An Introduction to Computational Drug Discovery** [Video](https://www.youtube.com/watch?v=RL25hgfLd8Q&ab_channel=DataProfessor)
+7. **Data Science for Computational Drug Discovery using Python (Part 1)** [Video](https://www.youtube.com/watch?v=VXFFHHoE1wk)
+8. **Data Science for Computational Drug Discovery using Python (Part 2 with PyCaret)** [Video](https://www.youtube.com/watch?v=RGfeGRt32Dk&t=0s&ab_channel=DataProfessor)
+
+
 ### Jobs
 1. **somorphic Labs — Current Job Openings** [Apply](https://www.isomorphiclabs.com/join)
 ### Other software and resources
 
 #### Platforms
+1. **ColabFold: making protein folding accessible to all** [Link](https://www.nature.com/articles/s41592-022-01488-1)
 
 #### DevTools
+1. **STK: a Python library which allows construction and manipulation of complex molecules, as well as automatic molecular design, and the creation of molecular, and molecular property, databases** [Link](https://stk.readthedocs.io/en/stable/index.html#)
+2. **exmol: Explainer for black box models that predict molecule properties** [Link](https://github.com/ur-whitelab/exmol)
+3. **ChemicalX: A Deep Learning Library for Drug Pair Scoring** [Link](https://arxiv.org/abs/2202.05240)
+4. **GeneDisco: A Benchmark for Experimental Design in Drug Discovery** [Link](https://arxiv.org/abs/2110.11875)
