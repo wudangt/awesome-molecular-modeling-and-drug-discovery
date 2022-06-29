@@ -8,6 +8,7 @@
 - [Table of Contents](#table-of-contents)
 - [Resources](#resources)
 	- [Research articles](#research-articles)
+		- [Year 2022](#year-2022)
 		- [Year 2021](#year-2021)
 		- [Year 2020](#year-2020)
 	- [Community](#community)
@@ -22,7 +23,9 @@
 ## Resources 
 
 ### Research articles
-
+#### Year 2022
+1. **Independent SE(3)-Equivariant Models for End-to-End Rigid Protein Docking**  
+Octavian-Eugen Ganea, Xinyuan Huang, Charlotte Bunne, etc, ... ICLR 2022 [paper](https://openreview.net/forum?id=GQjaI9mLet)
 #### Year 2021
 1. **Geometric Deep Learning on Molecular Representations**  
 Kenneth Atz, Francesca Grisoni, Gisbert Schneider Nature 2021 [paper](https://www.nature.com/articles/s42256-021-00418-8)
