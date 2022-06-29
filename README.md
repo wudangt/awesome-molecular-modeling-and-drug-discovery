@@ -8,6 +8,7 @@
 - [Table of Contents](#table-of-contents)
 - [Resources](#resources)
 	- [Research articles](#research-articles)
+		- [Year 2020](#year-2020)
 	- [Community](#community)
 	- [conference](#conference)
 	- [Tutorials](#tutorials)
@@ -20,6 +21,10 @@
 ## Resources 
 
 ### Research articles
+
+#### Year 2020
+1. **SE(3)-Transformers: 3D Roto-Translation Equivariant Attention Networks**  
+Fabian Fuchs, Daniel Worrall, Volker Fischer, Max Welling NeurIPS 2020 [paper](https://proceedings.neurips.cc//paper/2020/hash/15231a7ce4ba789d13b722cc5c955834-Abstract.html)
 
 ### Community
 
