@@ -37,7 +37,8 @@ Fabian Fuchs, Daniel Worrall, Volker Fischer, Max Welling NeurIPS 2020 [paper](h
 ### Conference
 
 ### Tutorials
-
+1. **DeepMind's AlphaFold 2 Explained! AI Breakthrough in Protein Folding! What we know (& what we don't)** [Video](https://www.youtube.com/watch?v=B9PL__gVxLI&ab_channel=YannicKilcher)
+2. **AlphaFold and the Grand Challenge to solve protein folding** [video](https://www.youtube.com/watch?v=nGVFbPKrRWQ&t=3s&ab_channel=ArxivInsights)
 ### Jobs
 
 ### Other software and resources
