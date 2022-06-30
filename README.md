@@ -35,6 +35,11 @@ John Jumper, Richard Evans, Alexander Pritzel, Tim Green, etc, ... Nature 2021 [
 MINKYUNG BAEK, DIMAIO, ANISHCHENKO, DAUPARAS, etc, ... Science 2021 [paper](https://www.science.org/doi/10.1126/science.abj8754)
 5. **Learning from Protein Structure with Geometric Vector Perceptrons**  
 Bowen Jing, Stephan Eismann∗, Patricia Suriana, Raphael J.L. T, etc, ... ICLR 2021 [paper](https://arxiv.org/pdf/2009.01411.pdf)
+6. **An End-to-End Framework for Molecular Conformation Generation via Bilevel Programming**  
+Minkai Xu, Wujie Wang, Shitong Luo, Chence Shi, Yoshua Bengio, etc, ...  PMLR 2021 [paper](https://proceedings.mlr.press/v139/xu21f.html)
+7. **Learning Gradient Fields for Molecular Conformation Generation**  
+Chence Shi, Shitong Luo, Minkai Xu, Jian Tang ICML 2021 [paper](https://arxiv.org/abs/2105.03902)
+
 
 #### Year 2020
 1. **SE(3)-Transformers: 3D Roto-Translation Equivariant Attention Networks**  
