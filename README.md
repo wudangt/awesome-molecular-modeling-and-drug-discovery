@@ -61,7 +61,7 @@ Fabian Fuchs, Daniel Worrall, Volker Fischer, Max Welling NeurIPS 2020 [paper](h
 6. **An Introduction to Computational Drug Discovery** [Video](https://www.youtube.com/watch?v=RL25hgfLd8Q&ab_channel=DataProfessor)
 7. **Data Science for Computational Drug Discovery using Python (Part 1)** [Video](https://www.youtube.com/watch?v=VXFFHHoE1wk)
 8. **Data Science for Computational Drug Discovery using Python (Part 2 with PyCaret)** [Video](https://www.youtube.com/watch?v=RGfeGRt32Dk&t=0s&ab_channel=DataProfessor)
-
+9. **DeepMind solves protein folding | AlphaFold 2** [Video](https://www.youtube.com/watch?v=W7wJDJ56c88&ab_channel=LexFridman)
 
 ### Jobs
 1. **somorphic Labs — Current Job Openings** [Apply](https://www.isomorphiclabs.com/join)
