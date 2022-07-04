@@ -62,6 +62,7 @@ Fabian Fuchs, Daniel Worrall, Volker Fischer, Max Welling NeurIPS 2020 [paper](h
 7. **Data Science for Computational Drug Discovery using Python (Part 1)** [Video](https://www.youtube.com/watch?v=VXFFHHoE1wk)
 8. **Data Science for Computational Drug Discovery using Python (Part 2 with PyCaret)** [Video](https://www.youtube.com/watch?v=RGfeGRt32Dk&t=0s&ab_channel=DataProfessor)
 9. **DeepMind solves protein folding | AlphaFold 2** [Video](https://www.youtube.com/watch?v=W7wJDJ56c88&ab_channel=LexFridman)
+10. **FS-Mol: Bringing Deep Learning to Early-Stage Drug Discovery** [Blog](https://www.microsoft.com/en-us/research/blog/fs-mol-bringing-deep-learning-to-early-stage-drug-discovery/?OCID=msr_blog_FSMol_NeurIPS_tw)
 
 ### Jobs
 1. **somorphic Labs — Current Job Openings** [Apply](https://www.isomorphiclabs.com/join)
