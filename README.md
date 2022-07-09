@@ -50,6 +50,7 @@ Fabian Fuchs, Daniel Worrall, Volker Fischer, Max Welling NeurIPS 2020 [paper](h
 ### Community
 1. **M2D2: Molecular Modeling And Drug Discovery** [Link](https://valence-discovery.github.io/M2D2-meetings/index.html)
 2. **OpenFold：Democratizing AI for Biology** [Link](https://openfold.io/#whatis)
+3. **LoGaG: Learning on Graphs and Geometry Reading Group** [Link](https://hannes-stark.com/logag-reading-group)
 ### Conference
 1. **AI Cures Drug Discovery Conference** [Link](https://www.aicures.mit.edu/drugdiscoveryconference)
 ### Tutorials
