@@ -131,6 +131,7 @@ Gamaleldin F Elsayed & John P Cunningham  Nature 2022 [paper](https://www.nature
 
 #### Platforms
 1. **ColabFold: making protein folding accessible to all** [Link](https://www.nature.com/articles/s41592-022-01488-1)
+2. **TheBioProgrammingLab：combines mammalian synthetic biology with de novo protein design** [Link](https://chenlab.org/)
 
 #### DevTools
 1. **STK: a Python library which allows construction and manipulation of complex molecules, as well as automatic molecular design, and the creation of molecular, and molecular property, databases** [Link](https://stk.readthedocs.io/en/stable/index.html#)
